@@ -54,6 +54,10 @@ Some nice things to know:
   * `$sizes['960'] = http://...`
   *  Hopefully that makes sense...
 
+Both of these files are thanks to Brightcove examples. The proxy file is a near replica to a file found here: https://docs.brightcove.com/en/video-cloud/cms-api/samples/mrss-generator.html#proxy and the PHP has been converted from this JavaScript: https://docs.brightcove.com/en/video-cloud/cms-api/samples/mrss-generator.html#javascript.
+
+We don't make any claims to owning this code. Anyone is free to modify or use this code, without attribution. 
+
 Questions? rob [dot] denton [at] registerguard [dot] com
 
 
