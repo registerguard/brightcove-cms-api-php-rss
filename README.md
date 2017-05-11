@@ -54,6 +54,6 @@ Some nice things to know:
   * `$sizes['960'] = http://...`
   *  Hopefully that makes sense...
 
-
+Questions? rob [dot] denton [at] registerguard [dot] com
 
 
